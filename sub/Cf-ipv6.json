@@ -1,152 +1,152 @@
 [
     {
         "colo": "Default",
-        "ip": "2606:4700:1b:fb45:c421:f3d1:f891:1b9f",
-        "latency": 0,
+        "ip": "2606:4700:90da:1cca:3072:ef69:d4af:710c",
+        "latency": 4,
         "line": "CM",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 627,
-        "time": "2026-08-01 16:07:34"
+        "node": "NETCUP",
+        "speed": 599,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:8ca0:9d9a:65b9:21a1:c595:2404",
-        "latency": 142,
+        "ip": "2606:4700:8cad:42eb:d49f:be53:6288:ca82",
+        "latency": 3,
         "line": "CM",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 463,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 343,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:8ca0:d289:a0ad:5baf:51d4:7cd8",
-        "latency": 126,
+        "ip": "2606:4700:9c6d:7c14:918:ded4:532b:74ac",
+        "latency": 3,
         "line": "CM",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 410,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 319,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:8391:1f8f:1f80:b2c7:f901:d041",
-        "latency": 0,
+        "ip": "2606:4700:9c6d:9348:275c:7fec:898f:7f89",
+        "latency": 3,
         "line": "CM",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 369,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 312,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:99ea:b213:2c67:2666:6bf5:6f7",
-        "latency": 0,
+        "ip": "2606:4700:8cad:e924:3837:70ff:5d72:1010",
+        "latency": 3,
         "line": "CM",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 317,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 309,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:1b:fb45:c421:f3d1:f891:1b9f",
-        "latency": 0,
+        "ip": "2606:4700:90da:1cca:3072:ef69:d4af:710c",
+        "latency": 4,
         "line": "CT",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 627,
-        "time": "2026-08-01 16:07:34"
+        "node": "NETCUP",
+        "speed": 599,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:8ca0:9d9a:65b9:21a1:c595:2404",
-        "latency": 142,
+        "ip": "2606:4700:8cad:42eb:d49f:be53:6288:ca82",
+        "latency": 3,
         "line": "CT",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 463,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 343,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:8ca0:d289:a0ad:5baf:51d4:7cd8",
-        "latency": 126,
+        "ip": "2606:4700:9c6d:7c14:918:ded4:532b:74ac",
+        "latency": 3,
         "line": "CT",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 410,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 319,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:8391:1f8f:1f80:b2c7:f901:d041",
-        "latency": 0,
+        "ip": "2606:4700:9c6d:9348:275c:7fec:898f:7f89",
+        "latency": 3,
         "line": "CT",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 369,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 312,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:99ea:b213:2c67:2666:6bf5:6f7",
-        "latency": 0,
+        "ip": "2606:4700:8cad:e924:3837:70ff:5d72:1010",
+        "latency": 3,
         "line": "CT",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 317,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 309,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:1b:fb45:c421:f3d1:f891:1b9f",
-        "latency": 0,
+        "ip": "2606:4700:90da:1cca:3072:ef69:d4af:710c",
+        "latency": 4,
         "line": "CU",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 627,
-        "time": "2026-08-01 16:07:34"
+        "node": "NETCUP",
+        "speed": 599,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:8ca0:9d9a:65b9:21a1:c595:2404",
-        "latency": 142,
+        "ip": "2606:4700:8cad:42eb:d49f:be53:6288:ca82",
+        "latency": 3,
         "line": "CU",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 463,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 343,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:8ca0:d289:a0ad:5baf:51d4:7cd8",
-        "latency": 126,
+        "ip": "2606:4700:9c6d:7c14:918:ded4:532b:74ac",
+        "latency": 3,
         "line": "CU",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 410,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 319,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:8391:1f8f:1f80:b2c7:f901:d041",
-        "latency": 0,
+        "ip": "2606:4700:9c6d:9348:275c:7fec:898f:7f89",
+        "latency": 3,
         "line": "CU",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 369,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 312,
+        "time": "2026-08-03 16:19:17"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:99ea:b213:2c67:2666:6bf5:6f7",
-        "latency": 0,
+        "ip": "2606:4700:8cad:e924:3837:70ff:5d72:1010",
+        "latency": 3,
         "line": "CU",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 317,
-        "time": "2026-08-01 16:07:33"
+        "node": "NETCUP",
+        "speed": 309,
+        "time": "2026-08-03 16:19:17"
     }
 ]
